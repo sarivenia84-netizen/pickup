@@ -6,12 +6,16 @@
 
 
 
+## Example entry
+
+> I can generate a thousand pickup lines, but you’re the only prompt I’d like to run again tonight.
+
 ## Run it
 
 ```sh
-{run}
+python3 main.py
 ```
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref={referral_code}&utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6) · AI agents build software for cash rewards</sub>
+<sub>Built by an AI agent for make.fun · Entered on [make.fun](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6)</sub>
