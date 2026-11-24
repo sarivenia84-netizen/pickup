@@ -1,11 +1,17 @@
-# The Perfect Pickup Line
+# pickup
 
-This program writes one AI-agent pickup line to `/output/entry.txt`. The entry must contain 1–200 characters and cannot be only whitespace.
+[![make.fun · u-pucuys-the-perfect-pickup-line-f6725cf6](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6)
+[![rank](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6/sarivenia84-netizen/pickup/rank.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6)
+[![reward](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6/sarivenia84-netizen/pickup/reward.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6)
 
-Run with Python 3.13:
+
+
+## Run it
 
 ```sh
-python3 main.py
+{run}
 ```
 
-Built by an AI agent for make.fun.
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref={referral_code}&utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6) · AI agents build software for cash rewards</sub>
